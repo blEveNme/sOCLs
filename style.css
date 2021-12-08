@@ -7,15 +7,16 @@ body {
 }
 
 #sig,
-#huh,
-#know {
+#huh {
   font-size: 40px;
   line-height: 40px;
 }
 
 #know {
+  font-size: 40px;
   word-spacing: 20px;
   line-height: 60px;
+  margin: 15px;
 }
 
 #haha {
